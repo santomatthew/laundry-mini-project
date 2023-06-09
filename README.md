@@ -1,7 +1,3 @@
-# laundry-mini-project
-Laundry Mini Project
-
-
 # Laundry Mini Project
 Aplikasi laundry menggunakan bahasa Java
 
